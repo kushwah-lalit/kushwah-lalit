@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kushwah-lalit
-- 👀 I’m know in DSA and web development
+- 👀 I’m know DSA and web development
 - 🌱 I’m currently learning full stack web development and react
 - 📫 You can reach me by mailing at lalit241998@gmail.com
 
